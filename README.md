@@ -11,6 +11,10 @@ In diesem Abschnitt möchte ich schauen, dass ich für das Modul 320 gut aufgest
 # Meine Erwartungen
 Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer unterstützt werde.
 
+# 23.08.24
+- [ ] 231 4
+- [ ] 231 5
+- [ ] 231 6
 
 # 30.08.24
 - [ ] LA_320_4202_ObjekteUndKlassenInC#2021

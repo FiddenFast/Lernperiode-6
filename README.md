@@ -12,7 +12,7 @@ In diesem Abschnitt möchte ich schauen, dass ich für das Modul 320 gut aufgest
 Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer unterstützt werde.
 
 
-# 23.08.24
+# 30.08.24
 - [ ] LA_320_4202_ObjekteUndKlassenInC#2021
 - [ ] LA_320_4203_Instanzvariablen1_2021
 - [ ] LA_320_4203_Instanzvariablen2_2021

@@ -13,7 +13,7 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 
 
 # 23.08.24
--[ ] LA_320_4202_ObjekteUndKlassenInC#2021
--[ ] LA_320_4203_Instanzvariablen1_2021
--[ ] LA_320_4203_Instanzvariablen2_2021
+- [ ] LA_320_4202_ObjekteUndKlassenInC#2021
+- [ ] LA_320_4203_Instanzvariablen1_2021
+- [ ] LA_320_4203_Instanzvariablen2_2021
 

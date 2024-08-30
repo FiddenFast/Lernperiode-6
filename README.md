@@ -17,7 +17,12 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 - [x] 231 6
 
 # 30.08.24
-- [ ] LA_320_4202_ObjekteUndKlassenInC#2021
-- [ ] LA_320_4203_Instanzvariablen1_2021
+- [x] LA_320_4202_ObjekteUndKlassenInC#2021
+- [x] 231 Handlungsziel 2 abschliessen
 - [ ] LA_320_4203_Instanzvariablen2_2021
+
+# 06.09.24
+- [ ] 231 Handlungsziel 3
+- [ ] LA_320_4203_Instanzvariablen2_2021
+- [ ] 320 Handlungsziel 2
 

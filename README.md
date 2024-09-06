@@ -22,7 +22,11 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 - [ ] LA_320_4203_Instanzvariablen2_2021
 
 # 06.09.24
-- [ ] 231 Handlungsziel 3
+- [x] 231 Handlungsziel 3
 - [ ] LA_320_4203_Instanzvariablen2_2021
+- [x] 320 Handlungsziel 2
+
+# 13.09.24
+- [ ] 231 Handlungsziel 4
 - [ ] 320 Handlungsziel 2
 

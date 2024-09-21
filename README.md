@@ -31,6 +31,17 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 - [x] LA_320_4203_Instanzvariablen2_2021
 
 # 20.09.24
-- [ ]  231 Handlungsziel 4
-- [ ]  230 Handlungsziel 2
+- [x]  231 Handlungsziel 4
+- [x]  320 Handlungsziel 2
+
+# Reflexion
+Ich habe Softwarelösungen auf ihre Datensicherheit und ihren Datenschutz geprüft auf DSG sowie DSGVO Standart. Ich habe gelernt wie ich Schwachstellen erkenne und sie verbessere. 
+Zu dem habe ich gelernt was die wichtigsten Punkte für AGBs sind. Probleme sind nicht aufgetreten.
+
+
+# 27.09.24
+- [ ] 231 Handlungsziel 5
+- [ ] 231 Handlungsziel 6
+
+
 

@@ -36,7 +36,7 @@ Meine Erwartungen an Herr Meyer sind, dass ich, wenn ich Hilfe brauche, immer un
 
 # Reflexion
 Ich habe Softwarelösungen auf ihre Datensicherheit und ihren Datenschutz geprüft auf DSG sowie DSGVO Standart. Ich habe gelernt wie ich Schwachstellen erkenne und sie verbessere. 
-Zu dem habe ich gelernt was die wichtigsten Punkte für AGBs sind. Probleme sind nicht aufgetreten.
+Zu dem habe ich gelernt was die wichtigsten Punkte für AGBs sind. Probleme sind nicht aufgetreten. Unterstüzung brauche ich keine da ich sonst mir die Präsentationen genauer anschaue oder auf w3schools nachschaue.
 
 
 # 27.09.24
@@ -44,4 +44,4 @@ Zu dem habe ich gelernt was die wichtigsten Punkte für AGBs sind. Probleme sind
 - [ ] 231 Handlungsziel 6
 
 
-
+# 25.10.24
